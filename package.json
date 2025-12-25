@@ -1,5 +1,5 @@
 {
-  "name": "Sihyun0303/TizenAnilife",
+  "name": "tizen-anilife",
   "appName": "Anilife",
   "version": "1.0.3",
   "description": "Anilife for Samsung Tizen TV.",
@@ -18,7 +18,11 @@
     "MediaTrackPrevious"
   ],
   "repository": {
-    "url": "https://github.com/Sihyun0303/TizenAnilife"
+    "type": "git",
+    "url": "git+github.com"
+  },
+  "tizenbrew": {
+    "type": "module"
   },
   "evaluateScriptOnDocumentStart": true,
   "license": "MIT"
