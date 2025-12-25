@@ -1,15 +1,25 @@
 {
-  "name": "TizenAnilife",
+  "name": "@Sihyun0303/TizenAnilife",
+  "appName": "Anilife TV",
   "version": "1.0.0",
+  "description": "Anilife TV-friendly navigation and ad-free experience for Samsung Tizen TV.",
   "packageType": "mods",
-  "main": "index.js",
   "websiteURL": "https://anilife.app",
-  "tizenbrew": {
-    "type": "module"
-  },
+  "main": "index.js",
+  "author": "Sihyun0303",
   "keys": [
-    "MediaPlayPause", "MediaPlay", "MediaPause", "MediaStop",
-    "MediaFastForward", "MediaRewind", "MediaTrackNext", "MediaTrackPrevious"
+    "MediaPlayPause",
+    "MediaPlay",
+    "MediaPause",
+    "MediaStop",
+    "MediaFastForward",
+    "MediaRewind",
+    "MediaTrackNext",
+    "MediaTrackPrevious"
   ],
-  "evaluateScriptOnDocumentStart": true
+  "repository": {
+    "url": "https://github.com/Sihyun0303/TizenAnilife"
+  },
+  "evaluateScriptOnDocumentStart": true,
+  "license": "MIT"
 }
