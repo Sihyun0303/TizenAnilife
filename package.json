@@ -1,0 +1,15 @@
+{
+  "name": "TizenAnilife",
+  "version": "1.0.0",
+  "packageType": "mods",
+  "main": "index.js",
+  "websiteURL": "https://anilife.app",
+  "tizenbrew": {
+    "type": "module"
+  },
+  "keys": [
+    "MediaPlayPause", "MediaPlay", "MediaPause", "MediaStop",
+    "MediaFastForward", "MediaRewind", "MediaTrackNext", "MediaTrackPrevious"
+  ],
+  "evaluateScriptOnDocumentStart": true
+}
