@@ -1,11 +1,11 @@
 {
-  "name": "@Sihyun0303/TizenAnilife",
-  "appName": "Anilife TV",
+  "name": "Sihyun0303/TizenAnilife",
+  "appName": "Anilife",
   "version": "1.0.3",
-  "description": "Anilife TV-friendly navigation and ad-free experience for Samsung Tizen TV.",
+  "description": "Anilife for Samsung Tizen TV.",
   "packageType": "mods",
   "websiteURL": "https://anilife.app",
-  "main": "index.js",
+  "main": "z_index.js",
   "author": "Sihyun0303",
   "keys": [
     "MediaPlayPause",
