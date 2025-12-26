@@ -1,11 +1,11 @@
 {
   "name": "tizen-anilife",
   "appName": "Anilife",
-  "version": "1.0.3",
+  "version": "1.0.1",
   "description": "Anilife for Samsung Tizen TV.",
   "packageType": "mods",
   "websiteURL": "https://anilife.app",
-  "main": "z_index.js",
+  "main": "index.js",
   "author": "Sihyun0303",
   "keys": [
     "MediaPlayPause",
