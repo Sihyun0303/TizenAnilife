@@ -24,6 +24,5 @@
   "tizenbrew": {
     "type": "module"
   },
-  "evaluateScriptOnDocumentStart": true,
   "license": "MIT"
 }
